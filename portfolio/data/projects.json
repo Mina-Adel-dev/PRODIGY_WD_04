@@ -1,0 +1,180 @@
+[
+    {
+        "id": "patient-tracker",
+        "title": "Patient Tracker System",
+        "subtitle": "Healthcare Management Platform",
+        "description": "A comprehensive healthcare management system with three dashboards (Doctor, Patient, Admin) featuring secure authentication and robust data management.",
+        "emoji": "🏥",
+        "tech": ["PHP", "MySQL", "JavaScript", "HTML", "CSS", "MVC", "Security"],
+        "live": "",
+        "github": "https://github.com/Mina-Adel-dev",
+        "caseStudy": {
+            "problem": "Healthcare facilities need secure, efficient systems to manage patient data while maintaining strict privacy and access controls for different user roles.",
+            "solution": "Developed a three-tier dashboard system with role-based access control, implementing secure authentication, data encryption, and comprehensive patient tracking features.",
+            "features": [
+                "Three separate dashboards: Doctor, Patient, and Admin",
+                "Secure authentication with session management and SQL injection prevention",
+                "Forgot password functionality with email verification",
+                "Observer pattern for notification system",
+                "EAV (Entity-Attribute-Value) data model for flexibility",
+                "Comprehensive documentation with SRS/SDD reports"
+            ],
+            "learned": "This project taught me advanced PHP security practices, including proper session handling, SQL injection prevention, and password hashing. I learned about design patterns like Singleton for database connections and Observer for notifications. The documentation process (SRS/SDD) gave me experience in professional software development methodologies."
+        }
+    },
+    {
+        "id": "ransomware-simulation",
+        "title": "Ransomware Attack Simulation",
+        "subtitle": "Incident Response & Security Analysis",
+        "description": "Simulated ransomware attack with full incident response workflow, encryption algorithms, and security analysis.",
+        "emoji": "🛡️",
+        "tech": ["Python", "AES", "DES", "RSA", "Cybersecurity", "Incident Response"],
+        "live": "",
+        "github": "https://github.com/Mina-Adel-dev",
+        "caseStudy": {
+            "problem": "Organizations need to understand ransomware threats and have effective incident response plans, but real-world testing is dangerous and unethical.",
+            "solution": "Created a safe, controlled simulation environment to demonstrate ransomware attack vectors, encryption methods, and implement the full 7-phase incident response plan.",
+            "features": [
+                "Simulated ransomware with AES, DES, and RSA encryption",
+                "Hash cracking demonstration for password security education",
+                "Complete 7-phase Incident Response Plan implementation",
+                "Educational tool for cybersecurity training",
+                "Safe environment for learning attack/defense strategies"
+            ],
+            "learned": "This project deepened my understanding of cryptographic algorithms and their practical implementations. I gained hands-on experience with incident response procedures and learned how different encryption methods work in real attack scenarios. The project also taught me about ethical considerations in security testing."
+        }
+    },
+    {
+        "id": "ecommerce-bookstore",
+        "title": "E-commerce Bookstore",
+        "subtitle": "Full-Stack Online Retail Platform",
+        "description": "Complete online bookstore with user authentication, product catalog, shopping cart, and secure payment integration.",
+        "emoji": "📚",
+        "tech": ["Node.js", "MongoDB", "JavaScript", "HTML", "CSS", "Express"],
+        "live": "",
+        "github": "https://github.com/Mina-Adel-dev",
+        "caseStudy": {
+            "problem": "Small bookstores need affordable, customizable online presence with secure transaction handling and inventory management.",
+            "solution": "Built a full-stack e-commerce platform with secure user authentication, product management, shopping cart functionality, and order processing system.",
+            "features": [
+                "Secure user authentication with hashed passwords",
+                "Product catalog with search and filtering capabilities",
+                "Shopping cart with persistent session storage",
+                "Order management system",
+                "Responsive design for mobile and desktop",
+                "Admin panel for inventory management"
+            ],
+            "learned": "This project gave me comprehensive experience with the MERN stack (MongoDB, Express, React, Node.js). I learned about REST API design, database schema planning for e-commerce, and implementing secure authentication. The project also taught me about state management in web applications and handling user sessions securely."
+        }
+    },
+    {
+        "id": "maze-solver",
+        "title": "Maze Runner Solver",
+        "subtitle": "Pathfinding Algorithm Visualization",
+        "description": "Interactive maze solver visualizing A*, BFS, and DFS algorithms with real-time pathfinding visualization.",
+        "emoji": "🧩",
+        "tech": ["Python", "Tkinter", "Algorithms", "GUI", "Pathfinding"],
+        "live": "",
+        "github": "https://github.com/Mina-Adel-dev",
+        "caseStudy": {
+            "problem": "Students learning algorithms struggle to visualize how pathfinding algorithms work in practice and compare their efficiency.",
+            "solution": "Created an interactive GUI application that visualizes maze solving using three different algorithms (A*, BFS, DFS) with real-time animation and performance metrics.",
+            "features": [
+                "Real-time visualization of A*, BFS, and DFS algorithms",
+                "Customizable maze generation with different difficulty levels",
+                "Performance comparison between algorithms",
+                "Step-by-step execution for educational purposes",
+                "Interactive GUI built with Tkinter"
+            ],
+            "learned": "This project helped me deeply understand graph traversal algorithms and their practical applications. I learned about GUI development with Tkinter and how to visualize complex algorithms in an accessible way. The project also taught me about algorithm efficiency analysis and how to make technical concepts understandable through visualization."
+        }
+    },
+    {
+        "id": "word-counter",
+        "title": "Word Frequency Counter",
+        "subtitle": "Text Analysis with Sentiment API",
+        "description": "Advanced text analysis tool with word frequency counting and sentiment analysis integration.",
+        "emoji": "📊",
+        "tech": ["C++", "Qt", "HashMap", "API Integration", "GUI"],
+        "live": "",
+        "github": "https://github.com/Mina-Adel-dev",
+        "type": "additional",
+        "caseStudy": {
+            "problem": "Text analysis tools often lack integrated sentiment analysis and have poor user interfaces for non-technical users.",
+            "solution": "Developed a user-friendly GUI application that combines word frequency analysis with sentiment analysis API integration for comprehensive text processing.",
+            "features": [
+                "Word frequency counting using custom HashMap implementation",
+                "Sentiment analysis integration via external APIs",
+                "Graphical user interface built with Qt framework",
+                "Export functionality for analysis results",
+                "Multi-language text support"
+            ]
+        }
+    },
+    {
+        "id": "taxi-booking",
+        "title": "Taxi Booking System",
+        "subtitle": "Transportation Management System",
+        "description": "Console-based taxi booking management system with linked list data structures for efficient operations.",
+        "emoji": "🚕",
+        "tech": ["C++", "Data Structures", "Linked Lists", "Console App"],
+        "live": "",
+        "github": "https://github.com/Mina-Adel-dev",
+        "type": "additional",
+        "caseStudy": {
+            "problem": "Small taxi companies need simple, efficient software to manage bookings without complex database systems.",
+            "solution": "Built a console-based booking system using linked lists for efficient data management, focusing on core operations like booking, cancellation, and driver assignment.",
+            "features": [
+                "Efficient booking management using linked lists",
+                "Driver assignment algorithms",
+                "Fare calculation based on distance and time",
+                "Booking history tracking",
+                "Simple console interface"
+            ]
+        }
+    },
+    {
+        "id": "hotel-management",
+        "title": "Hotel Management System",
+        "subtitle": "Object-Oriented Hospitality Solution",
+        "description": "GUI-based hotel management system implementing OOP principles for room booking and guest management.",
+        "emoji": "🏨",
+        "tech": ["Java", "JavaFX", "OOP", "GUI", "Database"],
+        "live": "",
+        "github": "https://github.com/Mina-Adel-dev",
+        "type": "additional",
+        "caseStudy": {
+            "problem": "Small hotels need affordable management software that handles reservations, billing, and guest information efficiently.",
+            "solution": "Developed a comprehensive hotel management system using Java and JavaFX, implementing object-oriented design patterns for maintainability and scalability.",
+            "features": [
+                "Room booking and reservation management",
+                "Guest information database",
+                "Billing and invoice generation",
+                "Room availability calendar",
+                "JavaFX GUI with modern interface"
+            ]
+        }
+    },
+    {
+        "id": "grading-system",
+        "title": "Automated Grading System",
+        "subtitle": "Educational Assessment Platform",
+        "description": "System for uploading questions, submitting answers, and generating instant grades with efficiency improvements.",
+        "emoji": "📝",
+        "tech": ["C++", "File I/O", "Grading Algorithms", "Console App"],
+        "live": "",
+        "github": "https://github.com/Mina-Adel-dev",
+        "type": "additional",
+        "caseStudy": {
+            "problem": "Educators spend excessive time grading assignments manually, leading to delays in student feedback.",
+            "solution": "Created an automated grading system that allows instructors to upload questions and answer keys, then automatically grades student submissions with instant feedback.",
+            "features": [
+                "Question and answer key upload functionality",
+                "Automatic grading with customizable rubrics",
+                "Instant grade calculation and reporting",
+                "Student performance analytics",
+                "Export grades to CSV format"
+            ]
+        }
+    }
+]

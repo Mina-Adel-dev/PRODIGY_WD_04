@@ -1,0 +1,105 @@
+[
+    {
+        "id": "prodigy-task-01",
+        "taskCode": "Task-01",
+        "title": "Responsive Landing Page",
+        "description": "A modern, fully responsive landing page with interactive components and smooth animations.",
+        "highlights": [
+            "Fixed navigation with scrollspy highlighting",
+            "Interactive FAQ accordion section",
+            "Pricing toggle (monthly/yearly)",
+            "Contact form with client-side validation",
+            "Smooth scroll animations and hover effects"
+        ],
+        "demoSteps": [
+            "Show responsive design (mobile/desktop)",
+            "Demonstrate scrollspy navigation",
+            "Open/close FAQ accordion items",
+            "Toggle pricing plans",
+            "Test form validation"
+        ],
+        "tech": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+        "live": "http://localhost:8000",
+        "github": "https://github.com/Mina-Adel-dev",
+        "video": "",
+        "localDemo": "http://localhost:8000"
+    },
+    {
+        "id": "prodigy-task-03",
+        "taskCode": "Task-03",
+        "title": "Tic-Tac-Toe Game",
+        "description": "Interactive Tic-Tac-Toe game with multiple AI difficulty levels and advanced features.",
+        "highlights": [
+            "Player vs Player & Player vs AI modes",
+            "Three AI difficulty levels (Easy, Medium, Hard)",
+            "Minimax algorithm for optimal gameplay",
+            "Undo/Redo move functionality",
+            "Full keyboard navigation support",
+            "Score tracking and game statistics"
+        ],
+        "demoSteps": [
+            "Show PvP gameplay",
+            "Demonstrate AI at different difficulty levels",
+            "Use undo/redo functionality",
+            "Test keyboard navigation",
+            "View score history"
+        ],
+        "tech": ["JavaScript", "Algorithms", "Game Logic", "UI/UX"],
+        "live": "http://localhost:8002",
+        "github": "https://github.com/Mina-Adel-dev",
+        "video": "",
+        "localDemo": "http://localhost:8002"
+    },
+    {
+        "id": "prodigy-task-04",
+        "taskCode": "Task-04",
+        "title": "Personal Portfolio Website",
+        "description": "This responsive portfolio website showcasing projects, skills, and experience.",
+        "highlights": [
+            "Dark/light theme toggle with localStorage persistence",
+            "Smooth scroll with active section highlighting",
+            "Interactive project cards with case study modals",
+            "Accessibility features (keyboard nav, ARIA labels)",
+            "Contact form with validation",
+            "Performance optimized (lazy loading, minimal JS)"
+        ],
+        "demoSteps": [
+            "Toggle dark/light theme",
+            "Navigate between sections",
+            "Open project case study modal",
+            "Test contact form validation",
+            "Demonstrate responsive design"
+        ],
+        "tech": ["HTML5", "CSS3", "JavaScript", "Accessibility", "Performance"],
+        "live": "http://localhost:8004",
+        "github": "https://github.com/Mina-Adel-dev",
+        "video": "",
+        "localDemo": "http://localhost:8004"
+    },
+    {
+        "id": "prodigy-task-05",
+        "taskCode": "Task-05",
+        "title": "Weather App",
+        "description": "Progressive Web App for weather forecasting with geolocation and offline support.",
+        "highlights": [
+            "Open-Meteo API integration for weather data",
+            "City search and geolocation detection",
+            "Local storage caching for offline access",
+            "PWA installation capability",
+            "5-day forecast with detailed metrics",
+            "Temperature unit toggle (Celsius/Fahrenheit)"
+        ],
+        "demoSteps": [
+            "Search for a city weather",
+            "Use geolocation detection",
+            "Toggle temperature units",
+            "View 5-day forecast",
+            "Test offline functionality"
+        ],
+        "tech": ["JavaScript", "API Integration", "PWA", "Local Storage", "CSS3"],
+        "live": "http://localhost:8003",
+        "github": "https://github.com/Mina-Adel-dev",
+        "video": "",
+        "localDemo": "http://localhost:8003"
+    }
+]
